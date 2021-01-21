@@ -10,11 +10,11 @@ sites:
     url: https://eu01.apilg6.ml
   - name: Synology NAS Server
     url: https://lynnguo666.site
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
+  - name: GitHub
+    url: https://github.com
+  - name: CloudFlare
     method: HEAD
-    url: https://www.google.com
+    url: https://www.cloudflare.com
   - name: Secret Site
     url: $SECRET_SITE
 
