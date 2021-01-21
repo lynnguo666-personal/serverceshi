@@ -1,13 +1,13 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: lynnguo666-person # Your GitHub username
+repo: serverceshi # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: 阿里云服务器 - 北京
+    url: http://182.92.195.102
+  - name: 1号德国服务器
+    url: https://eu01.apilg6.ml
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
@@ -20,7 +20,7 @@ sites:
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: s.lynnguo666.site
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
