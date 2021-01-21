@@ -8,8 +8,8 @@ sites:
     url: http://182.92.195.102
   - name: Euserv V2Ray Server
     url: https://eu01.apilg6.ml
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Synology NAS Server
+    url: https://lynnguo666.site
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Test for HEAD
