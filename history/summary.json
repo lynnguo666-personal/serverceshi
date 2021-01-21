@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/182.92.195.102",
     "slug": "ali-yun-bei-jing",
     "status": "up",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 597,
-    "timeDay": 597,
-    "timeWeek": 597,
-    "timeMonth": 597,
-    "timeYear": 597,
+    "uptime": "36.69%",
+    "uptimeDay": "36.69%",
+    "uptimeWeek": "36.69%",
+    "uptimeMonth": "36.69%",
+    "uptimeYear": "36.69%",
+    "time": 1098,
+    "timeDay": 1098,
+    "timeWeek": 1098,
+    "timeMonth": 1098,
+    "timeYear": 1098,
     "dailyMinutesDown": {
       "2021-01-21": 304
     }
@@ -36,8 +36,26 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 304
+      "2021-01-21": 480
     }
+  },
+  {
+    "name": "Euserv Web Server",
+    "url": "https://eu301920cf.apilg6.ml",
+    "icon": "https://favicons.githubusercontent.com/eu301920cf.apilg6.ml",
+    "slug": "euserv-web-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 253,
+    "timeDay": 253,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Synology NAS Server",
@@ -50,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2374,
-    "timeDay": 2374,
-    "timeWeek": 2374,
-    "timeMonth": 2374,
-    "timeYear": 2374,
+    "time": 2091,
+    "timeDay": 2091,
+    "timeWeek": 2091,
+    "timeMonth": 2091,
+    "timeYear": 2091,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 220,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
+    "time": 158,
+    "timeDay": 158,
+    "timeWeek": 158,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 131,
-    "timeDay": 131,
-    "timeWeek": 131,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -99,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "75.87%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "99.21%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.78%",
+    "uptimeDay": "63.64%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "99.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-21": 347
+      "2021-01-21": 524
     }
   }
 ]
