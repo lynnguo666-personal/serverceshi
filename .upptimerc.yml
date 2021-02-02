@@ -17,6 +17,8 @@ sites:
   - name: CloudFlare
     method: HEAD
     url: https://www.cloudflare.com
+  - name: US Web CN2 GIA
+    url: https://blog.lynnguo666.site   
   - name: Secret Site
     url: $SECRET_SITE
 
